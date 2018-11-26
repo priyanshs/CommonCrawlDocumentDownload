@@ -16,9 +16,9 @@ public class Extensions {
         //".xlsb",
 
         // Word
-        ".doc",
+        //".doc",
         ".docx",
-        ".dotx",
+       // ".dotx",
         ".docm",
         //".ooxml",
 
@@ -31,10 +31,10 @@ public class Extensions {
         //".thmx",
 
         // Outlook
-        ".msg",
+        //".msg",
 
         // Publisher
-        ".pub",
+       // ".pub",
 
         // Visio - binary
         //".vsd",
