@@ -9,26 +9,26 @@ public class Extensions {
 
     private static final String[] EXTENSIONS = new String[] {
         // Excel
-        ".xls",
+        //".xls",
         ".xlsx",
         ".xlsm",
-        ".xltx",
-        ".xlsb",
+        //".xltx",
+        //".xlsb",
 
         // Word
         ".doc",
         ".docx",
         ".dotx",
         ".docm",
-        ".ooxml",
+        //".ooxml",
 
         // Powerpoint
-        ".ppt",
-        ".pptx",
-        ".pptm",
-        ".ppsm",
-        ".ppsx",
-        ".thmx",
+        ////".ppt",
+        //".pptx",
+        //".pptm",
+        //".ppsm",
+        //".ppsx",
+        //".thmx",
 
         // Outlook
         ".msg",
@@ -37,24 +37,24 @@ public class Extensions {
         ".pub",
 
         // Visio - binary
-        ".vsd",
-        ".vss",
-        ".vst",
-        ".vsw",
+        //".vsd",
+        //".vss",
+        //".vst",
+        //".vsw",
         
         // Visio - ooxml (currently unsupported)
-        ".vsdm",
-        ".vsdx",
-        ".vssm",
-        ".vssx",
-        ".vstm",
-        ".vstx",
+        //".vsdm",
+        //".vsdx",
+        //".vssm",
+        //".vssx",
+        //".vstm",
+        //".vstx",
 
         // POIFS
-        ".ole2",
+        //".ole2",
 
         // Microsoft Admin Template?
-        ".adm",
+        //".adm",
 
         // Microsoft TNEF
         // ".dat", new HMEFFileHandler());
